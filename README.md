@@ -13,7 +13,6 @@ Q4: name the biggest factor that, in our opinion, today, harms the mental health
 Q5: name the biggest factor that, in our opinion, today, harms the mental health of children specifically.
 
 # project six
-
 We can approximately define three types of feminism: (1) difference-denying, (2) difference-removing, (3) difference-honoring. Other approximate categorizations are possible. For the purposes of this project, we use this approximate categorization:
 
 1. Difference-denying feminism: In this approach, any difference between men and women is denied, and is said to be purely due to cultural impositions. There is no biological (called "essential") difference (no "on average" difference when doing group-wise comparison) between men and women. Every difference is socially constructed.
@@ -23,7 +22,6 @@ We can approximately define three types of feminism: (1) difference-denying, (2)
 3. Difference-honoring feminism: This approach does accept that there exist differences that are purely culturally-imposed and not "essential", but holds that in addition to those, there exist genuine essential differences, and denying or removing them harms women. Denying or harming differences harms everybody, not just women. Men and women have differences and they're both ok. What must change is the culture that values only masculine traits, and views feminine traits as unimportant and without value.
 
 # questions answered in project 6
-
 Q1: If you wanted to approximate your degree of agreement with approach 1 (difference-denying feminism) by picking a number from 1 to 10 (1 being "strongly disagree" and 10 being "strongly agree"), what number would you pick?
 
 Q2: If you wanted to approximate your degree of agreement with approach 2 (difference-removing feminism) by picking a number from 1 to 10 (1 being "strongly disagree" and 10 being "strongly agree"), what number would you pick?
